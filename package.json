@@ -1,0 +1,18 @@
+{
+  "name": "projetjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "three": "^0.171.0",
+    "three-stdlib": "^2.35.2",
+    "vite": "^6.0.7"
+  },
+  "description": ""
+}
